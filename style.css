@@ -26,7 +26,7 @@ p{
     width: 100%;
 }
 section{
-    height: 500px;
+    height: 400px;
     bottom: 150px;
 }
 .top-bannar{
@@ -54,8 +54,6 @@ a:hover{
     padding-left: 3%;
     
     
-
-    
 }
 
 .dream-area{
@@ -67,8 +65,9 @@ a:hover{
 .Experiences-class{
     box-shadow: 10px 10px 40px grey ;
     border-radius: 10px;
-    height: 40%;
+    height: 55%;
     background-color: white;
+
     
     
 }
@@ -77,19 +76,33 @@ a:hover{
     background-image: url("image/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    
+
+    
+
+
 }
 
 #full-stack{
-    border-left: 7px solid ;
+    border-left: 9px solid  ;
     border-image: linear-gradient(180deg,lightsalmon,tomato);
     border-image-slice: 1;
+    
+
+
 }
 
 #baby-web{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+
+}
+.new-change{
+    margin: 0 0 0 150px;
+
 }
 footer p{
     text-align: center;
 }
+
